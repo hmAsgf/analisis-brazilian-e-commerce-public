@@ -23,5 +23,9 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 streamlit run dashboard.py
 ```
 
-## Hasil Analisis
-https://hmasgf-analisis-brazilian-e-commerce--dashboarddashboard-mhudq3.streamlit.app/
+## Dashboard
+- URL:
+`https://hmasgf-analisis-brazilian-e-commerce--dashboarddashboard-mhudq3.streamlit.app/`
+- Screenshoot:
+![Screenshoot Dashboard](./Screenshot%20Dashboard.png)
+
