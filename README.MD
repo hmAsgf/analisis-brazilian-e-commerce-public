@@ -22,3 +22,6 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 ```bash
 streamlit run dashboard.py
 ```
+
+## Hasil Analisis
+https://hmasgf-analisis-brazilian-e-commerce--dashboarddashboard-mhudq3.streamlit.app/
